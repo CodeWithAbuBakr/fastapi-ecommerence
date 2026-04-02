@@ -1,0 +1,59 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+.env/
+.venv/
+
+# Environment variables
+
+.env
+.env.*
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# SQLite database (if you use one)
+
+*.db
+*.sqlite3
+
+# Test / coverage
+
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Build files
+
+build/
+dist/
+*.egg-info/
+
+# Vercel
+
+.vercel
+
+# Misc
+
+*.swp
+*.swo
